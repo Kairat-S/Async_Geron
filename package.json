@@ -1,0 +1,19 @@
+{
+  "name": "cars-app",
+  "version": "1",
+  "description": "cars project",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd src/scripts && yarn tsc && node cars && cd ../..",
+    "startEsep3": "cd src/scripts/esep3 && yarn tsc && node es3 && cd ../../..",
+    "startCondition": "cd src/scripts/conditions && yarn tsc && node condition2 && cd ../../..",
+    "startFunction": "cd src/scripts/Functions && yarn tsc && node Calculator && cd ../../..",
+    "startEnum": "cd src/scripts/enum && yarn tsc && node accountantSalary && cd ../../..",
+    "startMass": "cd src/scripts/mass && yarn tsc && node ZpActive && cd ../../..",
+    "startAsync": "cd src/scripts/Async && yarn tsc && node Jalaqy && cd ../../.."
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

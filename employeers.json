@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Rina",
+    "age": 58,
+    "isActive": true
+  },
+  {
+    "name": "Kathryn",
+    "age": 25,
+    "isActive": false
+  },
+  {
+    "name": "Wilfred",
+    "age": 17,
+    "isActive": true
+  },
+  {
+    "name": "Genna",
+    "age": 26,
+    "isActive": true
+  },
+  {
+    "name": "Celle",
+    "age": 25,
+    "isActive": true
+  },
+  {
+    "name": "Torre",
+    "age": 24,
+    "isActive": false
+  },
+  {
+    "name": "Amerigo",
+    "age": 46,
+    "isActive": false
+  },
+  {
+    "name": "Shayne",
+    "age": 11,
+    "isActive": true
+  },
+  {
+    "name": "Darline",
+    "age": 32,
+    "isActive": false
+  },
+  {
+    "name": "Rourke",
+    "age": 64,
+    "isActive": false
+  }
+]
